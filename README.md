@@ -1,6 +1,6 @@
 # Module-11-Timed-Series-Challenge
 
-In this assignment, I've been tasked with analyzing the company's financial and user data in clever ways to help the company grow. So, I want to fi d out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
+In this assignment, I've been tasked with analyzing the company's financial and user data in clever ways to help the company grow. So, I want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 In this module, I’ll learn to analyze time series data, as well as continue my journey into machine learning by automating time series forecasting using Prophet, a tool created by Facebook. An analysis that previously took financial professionals hours to complete can now be automated and completed within minutes using the machine learning algorithms that power Prophet.
 
 I'm a growth analyst at MercadoLibre (http://investor.mercadolibre.com/investor-relations). With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America.
