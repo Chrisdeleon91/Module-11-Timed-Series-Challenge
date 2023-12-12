@@ -17,7 +17,7 @@ Specifically, this notebook should contain the following:
 
 * Step 1: Find Unusual Patterns in Hourly Google Search Traffic
 * Step 2: Mine the Search Traffi c Data for Seasonality
-* Step 3: Relate the Search Traffi c to Stock Price Patterns
+* Step 3: Relate the Search Traffic to Stock Price Patterns
 * Step 4: Create a Time Series Model by Using Prophet
 * Step 5 (Optional): Forecast the Revenue by Using Time Series Models
 
@@ -26,7 +26,7 @@ Specifically, this notebook should contain the following:
 
 ### 1. Launch forecasting_net_prophet.ipynb from JuypterLab to run JupyterLab version
 * Run through each line of code to view the output
-### 2.Launch google_colab_version_forecasting_net_prophet.ipynb and upload into your Google Colab:
+### 2. Launch google_colab_version_forecasting_net_prophet.ipynb and upload into your Google Colab:
 * download the resource files in this repository to upload using the Google Colab prompts within the code
   
 ![image](https://github.com/Chrisdeleon91/Module-11-Timed-Series-Challenge/assets/22796940/2cb51607-d472-49af-ad63-49cfb3afb996)
